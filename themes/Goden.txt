@@ -1,5 +1,6 @@
 // Omgekeerde alfabetische volgorde, want er zijn erg veel A's
 // en Zeus hoort op de eerste plaats
+// Er zitten een paar doublures in
 
 Zeus
 Yemayá
